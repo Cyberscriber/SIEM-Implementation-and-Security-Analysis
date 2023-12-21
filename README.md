@@ -26,8 +26,8 @@ Analyzing Splunk's add-ons and apps to determine if any of them will work with y
 <br />
 - Barracuda Spam and Virus Firewall:  This Technology Addon provides index time parsing and search time extractions (CIM mapping) for the barracuda NGX firewalls.<br /> https://splunkbase.splunk.com/app/4098 <br />
     - Fortinet IDS: Fortinet FortiGate Add-On for Splunk is the technical add-on (TA) developed by Fortinet, Inc. The add-on enables Splunk Enterprise to ingest or map security and traffic data collected from FortiGate physical and virtual appliances across domains.<br /> https://splunkbase.splunk.com/app/2846 <br />
-    - AWS Web Application Firewall: The purpose of this add-on is to provide value to your AWS Web Application Firewall (WAF) logs. This is done by making the logs CIM compliant, adding tagging for Enterprise Security data models, and other knowledge objects to make searching and visualizing this data easy.  https://splunkbase.splunk.com/app/4714 <br />
-    - ZScaler:  The Zscaler App for Splunk provides detailed dashboards and reporting for all Zscaler products using Zscaler Nanolog Streaming and Log Streaming services. The Zscaler App for Splunk can also ingest DLP incident information. https://splunkbase.splunk.com/app/3866 <br />
+    - AWS Web Application Firewall: The purpose of this add-on is to provide value to your AWS Web Application Firewall (WAF) logs. This is done by making the logs CIM compliant, adding tagging for Enterprise Security data models, and other knowledge objects to make searching and visualizing this data easy.  <br /> https://splunkbase.splunk.com/app/4714 <br />
+    - ZScaler:  The Zscaler App for Splunk provides detailed dashboards and reporting for all Zscaler products using Zscaler Nanolog Streaming and Log Streaming services. The Zscaler App for Splunk can also ingest DLP incident information. <br />https://splunkbase.splunk.com/app/3866 <br />
 <br />
 Here are some types of logs typically integrated into a SIEM and their significance:<br />
 
