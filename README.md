@@ -24,19 +24,21 @@ Logs are the most common organizational method for monitoring.  A log is a recor
 </b>
 Analyzing Splunk's add-ons and apps to determine if any of them will work with your security products:<br />
 </b>
-- Barracuda Spam and Virus Firewall:  This Technology Addon provides index time parsing and search time extractions (CIM mapping) for the barracuda NGX firewalls.</b> https://splunkbase.splunk.com/app/4098 </b>
-    - Fortinet IDS: Fortinet FortiGate Add-On for Splunk is the technical add-on (TA) developed by Fortinet, Inc. The add-on enables Splunk Enterprise to ingest or map security and traffic data collected from FortiGate physical and virtual appliances across domains.</b> https://splunkbase.splunk.com/app/2846 </b>
-    - AWS Web Application Firewall: The purpose of this add-on is to provide value to your AWS Web Application Firewall (WAF) logs. This is done by making the logs CIM compliant, adding tagging for Enterprise Security data models, and other knowledge objects to make searching and visualizing this data easy.  </b> https://splunkbase.splunk.com/app/4714 </b>
-    - ZScaler:  The Zscaler App for Splunk provides detailed dashboards and reporting for all Zscaler products using Zscaler Nanolog Streaming and Log Streaming services. The Zscaler App for Splunk can also ingest DLP incident information. </b> https://splunkbase.splunk.com/app/3866 </b>
+- Barracuda Spam and Virus Firewall:  This Technology Addon provides index time parsing and search time extractions (CIM mapping) for the barracuda NGX firewalls.</b> https://splunkbase.splunk.com/app/4098 <br />
+- Fortinet IDS: Fortinet FortiGate Add-On for Splunk is the technical add-on (TA) developed by Fortinet, Inc. The add-on enables Splunk Enterprise to ingest or map security and traffic data collected from FortiGate physical and virtual appliances across domains.</b> https://splunkbase.splunk.com/app/2846<br />
+- AWS Web Application Firewall: The purpose of this add-on is to provide value to your AWS Web Application Firewall (WAF) logs. This is done by making the logs CIM compliant, adding tagging for Enterprise Security data models, and other knowledge objects to make searching and visualizing this data easy.  </b> https://splunkbase.splunk.com/app/4714<br />
+- ZScaler:  The Zscaler App for Splunk provides detailed dashboards and reporting for all Zscaler products using Zscaler Nanolog Streaming and Log Streaming services. The Zscaler App for Splunk can also ingest DLP incident information. </b> https://splunkbase.splunk.com/app/3866 <br />
 </b>
-Here are some types of logs typically integrated into a SIEM and their significance:</b>
-
-Authentication Logs: These logs record user login attempts, successful logins, and failed login attempts. They help detect unauthorized access, brute force attacks, and anomalous login patterns, aiding in user behavior analysis and identifying compromised credentials.</b>
-
-Network Logs: Network logs capture network traffic, including source and destination IP addresses, ports, protocols, and packet details. Analyzing network logs helps identify suspicious traffic, potential intrusions, and unusual patterns that might indicate malicious activity or vulnerabilities.</b>
-
+</b>
+Here are some types of logs typically integrated into a SIEM and their significance:<br />
+<br />
+</b>
+Authentication Logs: These logs record user login attempts, successful logins, and failed login attempts. They help detect unauthorized access, brute force attacks, and anomalous login patterns, aiding in user behavior analysis and identifying compromised credentials.<br />
+</b>
+Network Logs: Network logs capture network traffic, including source and destination IP addresses, ports, protocols, and packet details. Analyzing network logs helps identify suspicious traffic, potential intrusions, and unusual patterns that might indicate malicious activity or vulnerabilities.<br />
+</b>
 System Logs: These logs provide insights into system activities, including changes to files, configurations, and system events. Monitoring system logs aids in detecting unauthorized access, malware infections, system crashes, and configuration changes that might impact security.<br />
-
+</b>
 Application Logs: Logs from applications record user activities, errors, and events within specific software or applications. Analyzing application logs helps identify abnormal behavior, application-specific attacks, and potential vulnerabilities.<br />
 
 Security Logs: Security-specific logs contain information related to security events, such as firewall logs, intrusion detection/prevention system logs, antivirus logs, and security policy violations. These logs provide critical information about attempted breaches, malware detections, and security control effectiveness.<br />
