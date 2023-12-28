@@ -62,7 +62,7 @@ Display results where OS contains "Linux".
 <img src="https://imgur.com/zNyWrpZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />   
-Display results by destionation IP
+Display results by destination IP
 <img src="https://imgur.com/b4CgUo0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
